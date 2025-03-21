@@ -7,4 +7,5 @@ Triple double quotes("""""")
 Comments are generally ignored By Compiler
 """
 print("hi")
+print(a)
 
